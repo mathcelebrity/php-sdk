@@ -1,2 +1,7 @@
-# php-sdk
-PHP SDK for MathCelebrity API
+# MathCelebrity PHP SDK
+
+## Install
+Manual install or via Composer (coming soon)
+
+## Usage
+```php
