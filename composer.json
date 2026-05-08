@@ -1,0 +1,14 @@
+{
+  "name": "mathcelebrity/sdk",
+  "description": "Official MathCelebrity PHP SDK",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "MathCelebrity\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
