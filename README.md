@@ -1,7 +1,7 @@
 # MathCelebrity PHP SDK
 
 ## Install
-Manual install or via Composer (coming soon)
+`composer require mathcelebrity/sdk`
 
 ## Usage
 ```php
